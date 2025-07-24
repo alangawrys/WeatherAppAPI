@@ -7,7 +7,7 @@ The app presents weather information in a user-friendly interface that includes 
 
 ---
 
-## Current Features
+## Features
 
 - Search weather by city name
 - Shows current temperature in °F
